@@ -26,5 +26,5 @@ A Flowchart of the everything step by step:
 
 <img width="1029" height="814" alt="image" src="https://github.com/user-attachments/assets/58c06bbb-c6a9-47ea-886d-072bf481229b" />
 
-Video Link:
+Video Link: https://www.loom.com/share/05f317b7463145d18f2c69a1ebe22c29
 
