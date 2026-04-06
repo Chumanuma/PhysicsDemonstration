@@ -9,7 +9,9 @@ Play with the settings of said Physics Material then select it in the edit windo
 Your objects should fall and bounce freely to stress test their impact.
 
 Create a new blueprint just like your bouncing object blueprint and on the left in edit, add a box collision. In the blueprint map for the box collision, Component Begin Overlap >> PlayerCharacter >> Get Level "Lvl_2"
+
 <img width="736" height="297" alt="image" src="https://github.com/user-attachments/assets/3380c4fe-6d11-406d-8883-f986feffaf09" />
+
 Image example above.
 
 This will transition to your second testing site upon contact
@@ -21,6 +23,7 @@ CTRL+A to select all the bones and joints and then enable gravity on the right s
 Your two levels should now be complete and hit ALT+P to start running the project to feel the difference between rigid simple physics and advanced physics applications.
 
 A Flowchart of the everything step by step:
+
 <img width="1029" height="814" alt="image" src="https://github.com/user-attachments/assets/58c06bbb-c6a9-47ea-886d-072bf481229b" />
 
 Video Link:
